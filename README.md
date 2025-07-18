@@ -1,4 +1,5 @@
-# 🕯️ Candles Miner Prediction Uploader
+<img width="298" height="443" alt="image" src="https://github.com/user-attachments/assets/d0c0c1c2-b5b8-4625-a974-92d2d9064cfe" />
+# Candles Miner Prediction Uploader
 
 A simple CLI tool for Candles miners to paste in prediction CSVs from [candlestao.com](https://candlestao.com) and save them to the correct location for hourly, daily, or weekly submissions.
 
