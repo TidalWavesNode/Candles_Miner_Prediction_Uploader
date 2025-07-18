@@ -37,14 +37,12 @@ If your predictions are valid, they'll be saved, and you'll return to the main m
 
 
 🧾 CSV Format Requirements:
-
+```
 timestamp,color,confidence,price
-
 1704067200,red,0.85,45.50
-
 1704070800,green,0.92,46.20
-
 1704074400,red,0.78,44.90
+```
 
 🔍 Column Rules
 
@@ -66,14 +64,12 @@ Predictions are	saved To
 Double Enter Required: After pasting, press Enter twice to submit.
 
 Validation Errors? Make sure:
-
+```
 Your timestamps are in the future
-
 Colors are only red or green
-
 Confidence is between 0.0 and 1.0
-
 The file includes the header row
+```
 
 Join the [Candles Community Discord](https://discord.gg/XZfAzkmy)and make your predictions count 🕯
-
+Follow candles on [Twitter](https://x.com/candlestao)
