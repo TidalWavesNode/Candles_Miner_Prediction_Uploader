@@ -34,11 +34,16 @@ Paste your CSV (including the header), then hit *Enter twice* to submit.
 
 If your predictions are valid, they'll be saved, and you'll return to the main menu.
 
-🧾 CSV Format Requirements
+🧾 CSV Format Requirements:
+
 timestamp,color,confidence,price
+
 ✅ Example:
+
 1704067200,red,0.85,45.50
+
 1704070800,green,0.92,46.20
+
 1704074400,red,0.78,44.90
 
 🔍 Column Rules
