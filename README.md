@@ -34,9 +34,11 @@ Paste your CSV (including the header), then hit *Enter twice* to submit.
 
 If your predictions are valid, they'll be saved, and you'll return to the main menu.
 
+
 🧾 CSV Format Requirements:
 
 timestamp,color,confidence,price
+
 
 ✅ Example:
 
@@ -45,6 +47,7 @@ timestamp,color,confidence,price
 1704070800,green,0.92,46.20
 
 1704074400,red,0.78,44.90
+
 
 🔍 Column Rules
 timestamp: Unix timestamp for the start of the prediction interval (must be in the future)
