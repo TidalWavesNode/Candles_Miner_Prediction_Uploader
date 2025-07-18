@@ -71,6 +71,6 @@ Confidence is between 0.0 and 1.0
 The file includes the header row
 ```
 
-Join the [Candles Community Discord](https://discord.gg/XZfAzkmy)and make your predictions count 🕯
+Join the [Candles Community Discord](https://discord.gg/XZfAzkmy) and make your predictions count 🕯
 
 Follow candles on [Twitter](https://x.com/candlestao)
