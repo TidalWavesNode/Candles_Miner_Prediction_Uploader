@@ -72,4 +72,5 @@ The file includes the header row
 ```
 
 Join the [Candles Community Discord](https://discord.gg/XZfAzkmy)and make your predictions count 🕯
+
 Follow candles on [Twitter](https://x.com/candlestao)
