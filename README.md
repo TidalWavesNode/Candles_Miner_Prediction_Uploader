@@ -40,14 +40,14 @@ If your predictions are valid, they'll be saved, and you'll return to the main m
 
 timestamp,color,confidence,price
 
+1704067200,red,0.85,45.50
 
-✅ Example:
+1704070800,green,0.92,46.20
 
-- 1704067200,red,0.85,45.50
-- 1704070800,green,0.92,46.20
-- 1704074400,red,0.78,44.90
+1704074400,red,0.78,44.90
 
 🔍 Column Rules
+
 timestamp: Unix timestamp for the start of the prediction interval (must be in the future)
 - color: red or green
 - confidence: Float between 0.0 and 1.0
