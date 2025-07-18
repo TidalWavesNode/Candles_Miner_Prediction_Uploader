@@ -16,7 +16,7 @@ def ensure_data_dir():
         DATA_DIR.mkdir(parents=True, exist_ok=True)
 
 def print_menu():
-    print("\n🔮 Candles Miner Prediction Uploader")
+    print("\n🕯️ Candles Miner Prediction Uploader")
     print("1. Add hourly predictions")
     print("2. Add daily predictions")
     print("3. Add weekly predictions")
@@ -75,7 +75,7 @@ def main():
             print("👋 Thank you, come again!")
             break
         elif choice in PREDICTION_PATHS:
-            print("\n📋 Paste your predictions below. End input with a blank line:")
+            print("\n📋 Paste your predictions below. End input with a blank line: (hit enter 2x)")
             lines = []
             while True:
                 line = input()
