@@ -42,12 +42,9 @@ timestamp,color,confidence,price
 
 ✅ Example:
 
-1704067200,red,0.85,45.50
-
-1704070800,green,0.92,46.20
-
-1704074400,red,0.78,44.90
-
+- 1704067200,red,0.85,45.50
+- 1704070800,green,0.92,46.20
+- 1704074400,red,0.78,44.90
 
 🔍 Column Rules
 timestamp: Unix timestamp for the start of the prediction interval (must be in the future)
@@ -64,11 +61,17 @@ Predictions are	saved To
 - Weekly	~/.candles/data/weekly_predictions.csv
 
 ❓ Troubleshooting
+
 Double Enter Required: After pasting, press Enter twice to submit.
+
 Validation Errors? Make sure:
+
 Your timestamps are in the future
+
 Colors are only red or green
+
 Confidence is between 0.0 and 1.0
+
 The file includes the header row
 
 Join the [Candles Community Discord](https://discord.gg/XZfAzkmy)and make your predictions count 🕯
