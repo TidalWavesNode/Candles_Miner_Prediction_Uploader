@@ -48,15 +48,17 @@ timestamp,color,confidence,price
 
 🔍 Column Rules
 timestamp: Unix timestamp for the start of the prediction interval (must be in the future)
-color: red or green
-confidence: Float between 0.0 and 1.0
-price: Decimal (e.g., 45.50)
+- color: red or green
+- confidence: Float between 0.0 and 1.0
+- price: Decimal (e.g., 45.50)
 
 📂 File Save Locations
+
 Predictions are	saved To
-Hourly	~/.candles/data/hourly_predictions.csv
-Daily	~/.candles/data/daily_predictions.csv
-Weekly	~/.candles/data/weekly_predictions.csv
+
+- Hourly	~/.candles/data/hourly_predictions.csv
+- Daily	~/.candles/data/daily_predictions.csv
+- Weekly	~/.candles/data/weekly_predictions.csv
 
 ❓ Troubleshooting
 Double Enter Required: After pasting, press Enter twice to submit.
